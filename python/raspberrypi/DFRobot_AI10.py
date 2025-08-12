@@ -7,7 +7,7 @@
   @author [jiali](zhixinliu@dfrobot.com)
   @version V1.0
   @date 2025-7-13
-  @url 
+  @url https://github.com/cdjq/DFRobot_AI10
 '''
 import serial
 import time

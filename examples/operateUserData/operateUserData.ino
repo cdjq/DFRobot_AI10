@@ -6,7 +6,7 @@
  * @author [jiali](zhixinliu@dfrobot.com)
  * @version V1.0
  * @date 2025-07-14
- * @url 
+ * @url https://github.com/cdjq/DFRobot_AI10
  */
 #include "DFRobot_AI10.h"
 
